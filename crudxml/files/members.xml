@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<MhsSI18A>  
+  <mahasiswa>
+    <nim>18051214001</nim>
+    <nama>Sulistya Ernawati</nama>
+    <alamat>Pasuruan</alamat>
+    <email>contact@tya.com</email>
+    <situs>tya.com</situs>
+  </mahasiswa>  
+  <mahasiswa>
+    <nim>18051214014</nim>
+    <nama>Jales Febri K.</nama>
+    <alamat>Sidoarjo</alamat>
+    <email>contact@jales.com</email>
+    <situs>rois.com</situs>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18051214020</nim>
+    <nama>Kevin Krisna A. P.</nama>
+    <alamat>Gresik</alamat>
+    <email>contact@kevin.com</email>
+    <situs>idekevin.blogspot.com</situs>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>18051214034</nim>
+    <nama>M. Rois S.</nama>
+    <alamat>Malang</alamat>
+    <email>contact@rois.com</email>
+    <situs>rois.com</situs>
+  </mahasiswa>
+</MhsSI18A>
